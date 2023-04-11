@@ -45,6 +45,7 @@ service_map = {
     326798: "Blaue Karte EU auf einen neuen Pass übertragen",
     327537: "Fahrerlaubnis Umschreibung einer ausländischen Fahrerlaubnis aus einem Nicht-EU/EWR-Land (Drittstaat/Anlage 11)",
     329328: "Aufenthaltserlaubnis für Fachkräfte mit akademischer Ausbildung",
+    326233: "Fiktionsbescheinigung"
 }
 
 
